@@ -1,0 +1,28 @@
+{
+    "5810613583": {
+        "main_balance_usdt": 0.0,
+        "hold_balance_usdt": 0.0,
+        "topup_balance_usdt": 0.0,
+        "accounts_bought": 0,
+        "accounts_sold": 0,
+        "sold_numbers": [],
+        "referrer_id": null,
+        "referrals": [],
+        "referral_earnings": 0.0,
+        "created_at": "2026-02-05T07:42:28.863886",
+        "last_activity": "2026-02-05T07:42:28.863910"
+    },
+    "7368378269": {
+        "main_balance_usdt": 0.0,
+        "hold_balance_usdt": 0.0,
+        "topup_balance_usdt": 0.0,
+        "accounts_bought": 0,
+        "accounts_sold": 0,
+        "sold_numbers": [],
+        "referrer_id": null,
+        "referrals": [],
+        "referral_earnings": 0.0,
+        "created_at": "2026-02-05T07:43:03.600008",
+        "last_activity": "2026-02-05T07:43:03.600018"
+    }
+}
